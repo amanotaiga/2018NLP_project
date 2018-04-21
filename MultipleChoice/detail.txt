@@ -1,0 +1,685 @@
+{'a': {'dict_examp': "She's got a boyfriend.",
+       'lear_examp': 'You can make a quick snack, for example a sandwich.',
+       'level': 'A1',
+       'sense': 'used before a noun to refer to a single thing or person but '
+                'not a particular thing or person or not one that you have '
+                'referred to before'},
+ 'after': {'dict_examp': 'Do you want to go for a walk after breakfast?',
+           'lear_examp': 'You can go shopping, eat a tasty meal and after that '
+                         'you can go to the disco and dance all night.',
+           'level': 'A1',
+           'sense': 'when a time or event has happened'},
+ 'ago': {'dict_examp': 'He left the house over an hour ago.',
+         'lear_examp': 'Two months ago I booked a trip to Malta.',
+         'level': 'A2',
+         'sense': 'used to refer to a time in the past'},
+ 'airport': {'dict_examp': 'an international airport',
+             'lear_examp': 'The lake is not far from the airport.',
+             'level': 'A2',
+             'sense': 'a place where aircraft regularly take off and land, '
+                      'with buildings for passengers to wait in'},
+ 'already': {'dict_examp': "I asked him to come to the exhibition but he'd "
+                           'already seen it.',
+             'lear_examp': 'Juliana, I am going to start to paint my bedroom '
+                           'tomorrow. I have already bought the paint.',
+             'level': 'A2',
+             'sense': 'before now, or before a particular time in the past'},
+ 'an': {'dict_examp': 'an easy question',
+        'lear_examp': 'She is an au pair in England.',
+        'level': 'A1',
+        'sense': 'used instead of "a" when the following word begins with a '
+                 'vowel sound'},
+ 'and': {'dict_examp': 'Ann and Jim',
+         'lear_examp': 'I have got a nice bed, a mirror, a sofa and a table.',
+         'level': 'A1',
+         'sense': 'used to join two words, phrases, parts of sentences or '
+                  'related statements together'},
+ 'another': {'dict_examp': "I'm going to have another piece of cake.",
+             'lear_examp': "I need it because I will travel and I don't have "
+                           'another bag.',
+             'level': 'A2',
+             'sense': 'one more person or thing, or an additional amount'},
+ 'any': {'dict_examp': '"Is there any more soup?" "No, I\'m afraid there '
+                       'isn\'t any left."',
+         'lear_examp': "She doesn't want any more children.",
+         'level': 'A1',
+         'sense': 'used in questions and negatives to mean some'},
+ 'anyone': {'dict_examp': "I haven't told anyone.",
+            'lear_examp': 'I left my cellphone at your house last night[, s] I '
+                          "can't call anyone.",
+            'level': 'A2',
+            'sense': "used in questions and negatives to mean 'a person or "
+                     "people'"},
+ 'area': {'dict_examp': 'All areas of the country will have some rain tonight.',
+          'lear_examp': "It's a tourist area.",
+          'level': 'A2',
+          'sense': 'a region of a country or city'},
+ 'as': {'dict_examp': 'She works as a waitress.',
+        'lear_examp': 'He works in a school as a teacher.',
+        'level': 'A1',
+        'sense': 'used to talk about the job someone has'},
+ 'at': {'dict_examp': "She's at home/work.",
+        'lear_examp': 'I met her at sewing classes.',
+        'level': 'A1',
+        'sense': 'used to show the place or position of something'},
+ 'before': {'dict_examp': 'She arrived before me.',
+            'lear_examp': "We will come before 7 o'clock and help you with "
+                          'dinner.',
+            'level': 'A1',
+            'sense': 'earlier than something or someone'},
+ 'believe': {'dict_examp': 'They believe that their health has suffered '
+                           'because of the chemicals.',
+             'lear_examp': 'I believe him.',
+             'level': 'A2',
+             'sense': 'to think that something is true, or that what someone '
+                      'says is true'},
+ 'between': {'dict_examp': 'The town lies halfway between Rome and Florence.',
+             'lear_examp': 'I think that I left it in your bedroom, o] the '
+                           "shelf between your bed and your brother's.",
+             'level': 'A1',
+             'sense': 'in the space that separates two places, people or '
+                      'objects'},
+ 'body': {'dict_examp': 'A good diet and plenty of exercise will help you to '
+                        'keep your body healthy.',
+          'lear_examp': 'I think swimming is good for my body.',
+          'level': 'A1',
+          'sense': 'the whole physical structure that forms a person or '
+                   'animal'},
+ 'brother': {'dict_examp': 'Do you have any brothers and sisters?',
+             'lear_examp': 'I need to buy a book for my younger brother.',
+             'level': 'A1',
+             'sense': 'a man or boy with the same parents as another person'},
+ 'but': {'dict_examp': "You can invite Keith to the party, but please don't "
+                       'ask that friend of his.',
+         'lear_examp': 'There are eight rooms but the best one is my bedroom, '
+                       'because there are a lot of books.',
+         'level': 'A1',
+         'sense': 'used to introduce an added statement, usually something '
+                  'that is different from what you have said before'},
+ 'buy': {'dict_examp': 'Eventually she had saved enough money to buy a small '
+                       'car.',
+         'lear_examp': 'I bought it five years ago.',
+         'level': 'A1',
+         'sense': 'to get something by paying money for it'},
+ 'by': {'dict_examp': 'She was examined by a doctor.',
+        'lear_examp': 'You have to read the "House of Terror" by Constanza '
+                      'Vanges, which is about strange things that start '
+                      'happening in a house.',
+        'level': 'A2',
+        'sense': 'used to show the person or thing that does something'},
+ 'can': {'dict_examp': 'Can you drive?',
+         'lear_examp': 'It was difficult to join two words of English '
+                       'correctly. Now I can speak.',
+         'level': 'A1',
+         'sense': 'to be able to'},
+ 'case': {'dict_examp': 'a pencil case',
+          'lear_examp': 'You have to bring with you your pencil case, your '
+                        'books and your notebooks.',
+          'level': 'A2',
+          'sense': 'a container for storing or protecting something'},
+ 'center': {'dict_examp': 'There was a large table in the center of the room.',
+            'lear_examp': 'My new house is in the center of Rome.',
+            'level': 'A2',
+            'sense': 'the middle point or part of something'},
+ 'city': {'dict_examp': 'the city of Boston',
+          'lear_examp': 'I visit this city every year in June.',
+          'level': 'A1',
+          'sense': 'a large town'},
+ 'come': {'dict_examp': 'Come here!',
+          'lear_examp': "I can come to dinner tomorrow at 7 o'clock.",
+          'level': 'A1',
+          'sense': 'to move or travel toward a person who is speaking or the '
+                   'place that they are speaking about'},
+ 'customer': {'dict_examp': 'a satisfied customer',
+              'lear_examp': 'Unfortunat[e]ly I will not be able to go because '
+                            'this week I have to go to Germany to do business '
+                            'with one of our customers.',
+              'level': 'A2',
+              'sense': 'a person who buys goods or a service'},
+ 'daughter': {'dict_examp': 'Liz and Phil have a daughter and three sons.',
+              'lear_examp': 'Her daughter is 13 years old.',
+              'level': 'A1',
+              'sense': 'your female child'},
+ 'discuss': {'dict_examp': 'Have you discussed this matter with anyone else?',
+             'lear_examp': 'When we meet, we usually watch a science fiction '
+                           'film, then we discuss it.',
+             'level': 'A2',
+             'sense': 'to talk about something with someone and tell each '
+                      'other your ideas or opinions'},
+ 'family': {'dict_examp': 'A new family has moved in next door.',
+            'lear_examp': 'I will come with my family.',
+            'level': 'A1',
+            'sense': 'a group of people who are related to each other, such as '
+                     'a mother, a father, and their children'},
+ 'first': {'dict_examp': 'This is my first trip to New York.',
+           'lear_examp': 'Near the city there is the first championship golf '
+                         'course in Slovakia.',
+           'level': 'A1',
+           'sense': 'coming before all others'},
+ 'five': {'dict_examp': 'Five, four, three, two, one, blast-off!',
+          'lear_examp': "I will finish work at five o'clock.",
+          'level': 'A1',
+          'sense': 'the number 5'},
+ 'for': {'dict_examp': "There's a message for you.",
+         'lear_examp': 'This is my information for you.',
+         'level': 'A1',
+         'sense': 'intended to be given to or used by someone or something'},
+ 'foreign': {'dict_examp': 'Spain was the first foreign country she had '
+                           'visited.',
+             'lear_examp': 'You know I have got a friend in Germany, but I '
+                           'want to meet more foreign people.',
+             'level': 'A2',
+             'sense': 'belonging or connected to a country that is not your '
+                      'own'},
+ 'from': {'dict_examp': 'What time does the flight from Amsterdam arrive?',
+          'lear_examp': 'I like fresh food from my garden.',
+          'level': 'A1',
+          'sense': 'used to show the place where someone or something starts'},
+ 'get': {'dict_examp': "I'll get some bread on the way home.",
+         'lear_examp': 'We could get the afternoon ticket.',
+         'level': 'A1',
+         'sense': 'to obtain or buy something'},
+ 'have': {'dict_examp': 'Have you seen Jake?',
+          'lear_examp': "Dear Jo, Sorry I haven't written sooner.",
+          'level': 'A2',
+          'sense': 'used with the past participle of another verb to form the '
+                   'present and past perfect tenses'},
+ 'he': {'dict_examp': 'You can ask Andrew - he may know.',
+        'lear_examp': 'He is from Hungary.',
+        'level': 'A1',
+        'sense': 'used to refer to a man, boy, or male animal that has already '
+                 'been mentioned'},
+ 'head': {'dict_examp': 'Put this hat on to keep your head warm.',
+          'lear_examp': 'You must wear a cap on your head.',
+          'level': 'A1',
+          'sense': 'the part of the body above the neck that contains your '
+                   'brain, eyes, nose, mouth, ears, etc., and on which your '
+                   'hair grows'},
+ 'health': {'dict_examp': 'to be in good/poor health',
+            'lear_examp': 'I like it very much because I think playing '
+                          'football is good for my health.',
+            'level': 'A2',
+            'sense': 'the condition of your body'},
+ 'help': {'dict_examp': 'Thank you for helping.',
+          'lear_examp': "But the people help me and it's okay.",
+          'level': 'A1',
+          'sense': 'to make it easier for someone to do something by doing '
+                   'part of the work yourself'},
+ 'him': {'dict_examp': 'If you see Kevin, give him my love.',
+         'lear_examp': 'His name is Christopher but we all call him Hoby.',
+         'level': 'A1',
+         'sense': 'used after a verb or preposition to refer to someone male '
+                  'who has already been talked about'},
+ 'his': {'dict_examp': 'Alex is sitting over there with his daughter.',
+         'lear_examp': 'I like his cooking very much]',
+         'level': 'A1',
+         'sense': 'belonging to or relating to someone male who has already '
+                  'been talked about'},
+ 'home': {'dict_examp': "I tried to call him, but he wasn't at home.",
+          'lear_examp': "That's why I love my home.",
+          'level': 'A1',
+          'sense': 'the place where you live or feel you belong'},
+ 'hospital': {'dict_examp': 'I have to go to the hospital to have an '
+                            'operation.',
+              'lear_examp': 'She works in a hospital.',
+              'level': 'A1',
+              'sense': 'a place where ill or injured people go to be treated '
+                       'by doctors and nurses'},
+ 'hotel': {'dict_examp': 'a 4-star hotel',
+           'lear_examp': 'Cracow offers a lot of very nice hotels, restaurants '
+                         'and pubs.',
+           'level': 'A1',
+           'sense': 'a place where you pay to stay when you are away from '
+                    'home'},
+ 'if': {'dict_examp': "We'll have the party on the deck if the weather's good.",
+        'lear_examp': "If you want me to, I'll bring you some of my CDs.",
+        'level': 'A2',
+        'sense': 'used to say that something will happen only after something '
+                 'else happens or is true'},
+ 'in': {'dict_examp': "There's milk in the refrigerator.",
+        'lear_examp': 'He works in Austria now.',
+        'level': 'A1',
+        'sense': 'inside or toward the inside of a container, place or area'},
+ 'including': {'dict_examp': 'Eight people, including two children, were '
+                             'injured during the storm.',
+               'lear_examp': '[At] my party we danced a lot and everybody was '
+                             'there, including Amanda, Bruna, and Paola.',
+               'level': 'A2',
+               'sense': 'used to show that a person or thing is part of a '
+                        'larger group, amount or process'},
+ 'information': {'dict_examp': 'to find out/get information',
+                 'lear_examp': 'For other information call me on 753784',
+                 'level': 'A2',
+                 'sense': 'facts about a situation, person, event, etc.'},
+ 'international': {'dict_examp': 'international politics',
+                   'lear_examp': "Go to the international museum, it's "
+                                 'wonderful.',
+                   'level': 'A2',
+                   'sense': 'relating to or involving two or more countries'},
+ 'into': {'dict_examp': "He's gone into a store across the street.",
+          'lear_examp': 'I think I left my watch in the kitchen of your house, '
+                        'before we went into the swimming-pool.',
+          'level': 'A1',
+          'sense': 'toward the inside or middle of something'},
+ 'it': {'dict_examp': '"Where\'s my pen?" "You left it by the phone."',
+        'lear_examp': 'This is a very beautiful place and I like it.',
+        'level': 'A1',
+        'sense': 'used to refer to the thing, situation, or idea that has '
+                 'already been talked about'},
+ 'just': {'dict_examp': "I've just been on a trip to France.",
+          'lear_examp': "I've just had my birthday. It was on Friday.",
+          'level': 'A2',
+          'sense': 'a very short time ago'},
+ 'kill': {'dict_examp': 'Her parents were killed in a plane crash.',
+          'lear_examp': 'I like it because you must kill a lot of monsters.',
+          'level': 'A2',
+          'sense': 'to cause someone or something to die'},
+ 'kind': {'dict_examp': 'What kind of music do you like?',
+          'lear_examp': 'We can go to Hopi Hari, it is a kind of theme park, I '
+                        'think you will like it very much!',
+          'level': 'A1',
+          'sense': 'a type of thing or person'},
+ 'know': {'dict_examp': '"Where did he go?" - "I don\'t know."',
+          'lear_examp': "I don't know how long it is.",
+          'level': 'A1',
+          'sense': 'to have knowledge or information about something in your '
+                   'mind'},
+ 'life': {'dict_examp': "Life's too short to worry about money!",
+          'lear_examp': 'Aleksandra likes to do almost everything because she '
+                        'likes life!',
+          'level': 'A1',
+          'sense': "the time between a person's birth and their death"},
+ 'like': {'dict_examp': "She's a lot like her mother.",
+          'lear_examp': 'After the game, we had a barbecue and I met Theresa, '
+                        'a very good-looking girl who is interested in '
+                        'politics, just like me.',
+          'level': 'A2',
+          'sense': 'similar to or in the same way as someone or something'},
+ 'low': {'dict_examp': 'low temperatures',
+         'lear_examp': 'There were beautiful clothes for low prices.',
+         'level': 'A2',
+         'sense': 'small in amount, size or level'},
+ 'manager': {'dict_examp': 'a bank manager',
+             'lear_examp': 'I will be the manager of the group.',
+             'level': 'A2',
+             'sense': 'someone in control of an office, shop, team, etc.'},
+ 'mark': {'dict_examp': 'What mark did you get in the biology exam?',
+          'lear_examp': 'My father gave it to me because I had good marks at '
+                        'school last year.',
+          'level': 'A2',
+          'sense': 'a number or letter that is written on a piece of work, '
+                   'saying how good the work is'},
+ 'me': {'dict_examp': 'Is there one for me?',
+        'lear_examp': 'It is difficult for me.',
+        'level': 'A1',
+        'sense': 'used after a verb or preposition to refer to the person who '
+                 'is speaking or writing'},
+ 'mean': {'dict_examp': 'What does "gather" mean?',
+          'lear_examp': 'Because, in my opinion, blue means freedom.',
+          'level': 'A2',
+          'sense': 'to have a particular meaning'},
+ 'meeting': {'dict_examp': "We're having a meeting on Thursday to discuss the "
+                           'problem.',
+             'lear_examp': "I'm free to come to a meeting about this tomorrow "
+                           "at six o'clock p.m. See you then]",
+             'level': 'A2',
+             'sense': 'an event where people come together for a reason, '
+                      'usually to discuss something'},
+ 'might': {'dict_examp': 'We might finish the project by Thursday.',
+           'lear_examp': 'We should wear t-shirts to paint the wall because '
+                         'the paint might make our t-shirts dirty.',
+           'level': 'A2',
+           'sense': 'used to talk about what will possibly happen'},
+ 'much': {'dict_examp': 'Was there much food there?',
+          'lear_examp': 'How much did it cost?',
+          'level': 'A1',
+          'sense': 'In questions, "much" is used to ask about the amount of '
+                   'something.'},
+ 'must': {'dict_examp': 'Meat must be cooked thoroughly.',
+          'lear_examp': "We must be there at 7 o'clock in the morning.",
+          'level': 'A2',
+          'sense': 'used to say that it is necessary or important that '
+                   'something happens or is done'},
+ 'new': {'dict_examp': 'a new car',
+         'lear_examp': 'We spoke a]bou new clothes and new fashion.',
+         'level': 'A1',
+         'sense': 'recently made or having started to exist recently'},
+ 'no': {'dict_examp': '"You told me." "No, I didn\'t!"',
+        'lear_examp': 'I was in the office last week, but she said: "No!"',
+        'level': 'A1',
+        'sense': 'something that you say in order to disagree, give a negative '
+                 'answer, or say that something is not true'},
+ 'north': {'dict_examp': 'The points of the compass are North, South, East and '
+                         'West.',
+           'lear_examp': 'You can get there going on the road to the north of '
+                         'my town.',
+           'level': 'A2',
+           'sense': 'the direction that is on your left when you face toward '
+                    'the rising sun'},
+ 'not': {'dict_examp': "He's not fat!",
+         'lear_examp': "It's not a problem for me.",
+         'level': 'A1',
+         'sense': 'used to form a negative phrase after verbs like "be," '
+                  '"can," "have," "\'will," "must," etc., usually used in the '
+                  'short form "n\'t" in speech'},
+ 'of': {'dict_examp': 'a friend of mine',
+        'lear_examp': 'The name of my friend is Maria.',
+        'level': 'A1',
+        'sense': 'belonging or relating to someone or something'},
+ 'on': {'dict_examp': 'Ouch! You stepped on my foot.',
+        'lear_examp': 'I can read the book, listen to music, watch TV or just '
+                      'sit on my sofa and drink a hot cup of tea.',
+        'level': 'A1',
+        'sense': 'on or onto a surface'},
+ 'once': {'dict_examp': "I went sailing once, but I didn't like it.",
+          'lear_examp': 'I can write to him once a week.',
+          'level': 'A2',
+          'sense': 'one single time'},
+ 'one': {'dict_examp': 'You have three bags and I only have one.',
+         'lear_examp': 'She has got three daughters and one son.',
+         'level': 'A1',
+         'sense': 'the number 1'},
+ 'or': {'dict_examp': 'Would you like tea or coffee?',
+        'lear_examp': "I like to eat pasta or pizza, but I'm easy about food, "
+                      'I can eat anything.',
+        'level': 'A1',
+        'sense': 'used between possibilities, or before the last in a list of '
+                 'possibilities'},
+ 'our': {'dict_examp': 'We bought our house several years ago.',
+         'lear_examp': 'Every day, we have to give our teacher our homework.',
+         'level': 'A1',
+         'sense': 'belonging to or relating to us'},
+ 'out': {'dict_examp': "He's out nearly every night.",
+         'lear_examp': 'After the film, we can have dinner out.',
+         'level': 'A2',
+         'sense': 'used to refer to a period of time when someone goes away '
+                  'from home for a social activity'},
+ 'outside': {'dict_examp': "It's cold outside!",
+             'lear_examp': 'You can sit on the chair outside and look at the '
+                           'bridge.',
+             'level': 'A1',
+             'sense': 'not inside a building'},
+ 'own': {'dict_examp': 'All of the students have their own dictionaries.',
+         'lear_examp': 'We have to bring our own paints.',
+         'level': 'A2',
+         'sense': 'belonging to or done by a particular person or thing'},
+ 'pair': {'dict_examp': "I'd like you to do this exercise in pairs.",
+          'lear_examp': 'We do dialogues in pairs or between other students.',
+          'level': 'A1',
+          'sense': 'two people who are doing something together'},
+ 'past': {'dict_examp': "It's 5/10/a quarter/20/25/half past three.",
+          'lear_examp': 'The class started the 2nd of June at half past five.',
+          'level': 'A1',
+          'sense': 'used to say what the time is when it is a particular '
+                   'number of minutes after an hour'},
+ 'people': {'dict_examp': 'Many people never get any exercise.',
+            'lear_examp': 'I like talking to people about music, films and '
+                          'books.',
+            'level': 'A1',
+            'sense': 'more than one person'},
+ 'person': {'dict_examp': "He's a very dangerous person.",
+            'lear_examp': "She's a very good person. I really like my friends.",
+            'level': 'A1',
+            'sense': 'a human being'},
+ 'piece': {'dict_examp': 'a piece of cake',
+           'lear_examp': 'After that, we can go to drink a cup of coffee and '
+                         'eat a piece of cake.',
+           'level': 'A2',
+           'sense': 'a part that has come from something bigger'},
+ 'police': {'dict_examp': 'I think you should call the police.',
+            'lear_examp': 'We were dancing and then the police arrived, '
+                          'because of the loud music.',
+            'level': 'A2',
+            'sense': 'the official organization that makes people obey the law '
+                     'and that protects people and places against crime, or '
+                     'the people who work for this organization'},
+ 'polite': {'dict_examp': "I'm afraid I wasn't very polite to her.",
+            'lear_examp': 'The new teacher is very polite.',
+            'level': 'A2',
+            'sense': 'behaving in a way that is not rude and shows that you do '
+                     'not only think about yourself'},
+ 'president': {'dict_examp': 'President Obama',
+               'lear_examp': '[An]other attraction is our museum that is very '
+                             'famous because many paintings have been bought '
+                             'by important people like the President of the '
+                             'United States.',
+               'level': 'A2',
+               'sense': 'the highest political position in some countries, '
+                        'usually the leader of the government'},
+ 'probably': {'dict_examp': "I'll probably be home by midnight.",
+              'lear_examp': "I'll probably be there by 3.30.",
+              'level': 'A2',
+              'sense': 'used to mean that something is very likely'},
+ 'question': {'dict_examp': 'May I ask you a question?',
+              'lear_examp': 'Our teacher talks to us and gives us some '
+                            'questions.',
+              'level': 'A1',
+              'sense': 'a sentence or phrase used to find out information'},
+ 'quite': {'dict_examp': 'Casey is quite tall.',
+           'lear_examp': "She bought me a dress for my aunt's wedding. It was "
+                         'quite expensive, approximately 300 euros.',
+           'level': 'A2',
+           'sense': 'to a large degree'},
+ 'regular': {'dict_examp': "I couldn't see my regular dentist.",
+             'lear_examp': 'You can use a regular t-shirt and shorts.',
+             'level': 'A2',
+             'sense': 'usual or ordinary'},
+ 'restaurant': {'dict_examp': 'We had lunch at/in a\n'
+                              'restaurant near the station.',
+                'lear_examp': "Sometimes I'm very tired because I work in a "
+                              'restaurant.',
+                'level': 'A1',
+                'sense': 'a place where you can buy and eat a meal'},
+ 'sad': {'dict_examp': "I've just received some very sad news.",
+         'lear_examp': 'We like this park because there are a lot of place to '
+                       "walk, and play. In England I'[ve] not found a similar "
+                       "place, so I'm sad.",
+         'level': 'A1',
+         'sense': 'unhappy or making you feel unhappy'},
+ 'say': {'dict_examp': '"I\'d like to go home," she said.',
+         'lear_examp': "When I['m] speaking in class, I'm very nervous and I "
+                       "can't say anything.",
+         'level': 'A1',
+         'sense': 'to speak words'},
+ 'secretary': {'dict_examp': 'My secretary will phone you to arrange a '
+                             'meeting.',
+               'lear_examp': 'The class is on Friday. You have to bring paper. '
+                             'For more information, ask the secretary.',
+               'level': 'A2',
+               'sense': 'someone who works in an office, typing letters, '
+                        'answering the telephone, and arranging meetings, '
+                        'etc.'},
+ 'she': {'dict_examp': "I asked my mother if she'd lend me some money, but she "
+                       'said no.',
+         'lear_examp': 'She is 23 years old.',
+         'level': 'A1',
+         'sense': 'used to refer to a woman, girl or female animal that has '
+                  'already been mentioned'},
+ 'shop': {'dict_examp': 'a gift/flower shop',
+          'lear_examp': 'I have a part-time job as waitress in a coffee shop, '
+                        "and I don't really have time to look for a history "
+                        'teacher.',
+          'level': 'A2',
+          'sense': 'a store or other place where you can buy things or a '
+                   'service'},
+ 'shopping': {'dict_examp': 'The store is open for late night shopping on '
+                            'Wednesdays.',
+              'lear_examp': 'She likes to go shopping with a friend.',
+              'level': 'A1',
+              'sense': 'the activity of buying things from shops'},
+ 'sick': {'dict_examp': 'a sick child',
+          'lear_examp': 'Everybody went except Natalie because she was sick.',
+          'level': 'A2',
+          'sense': 'not feeling well, or suffering from a disease'},
+ 'since': {'dict_examp': 'A lot has happened since 1980.',
+           'lear_examp': '',
+           'level': 'A2',
+           'sense': 'from a time in the past until a later time or until now'},
+ 'slow': {'dict_examp': 'a slow runner/driver/reader',
+          'lear_examp': 'I know about the concert and I like slow music.',
+          'level': 'A1',
+          'sense': 'doing, moving or happening without much speed'},
+ 'so': {'dict_examp': 'The house is so beautiful.',
+        'lear_examp': 'Thank you so much for your help!',
+        'level': 'A2',
+        'sense': 'used to emphasize the quantity, quality or amount of '
+                 'something'},
+ 'something': {'dict_examp': "There's something in my shoe.",
+               'lear_examp': 'If I need something, I go shopping.',
+               'level': 'A1',
+               'sense': 'used to refer to a thing when you do not know what it '
+                        'is or when it is not important what it is'},
+ 'son': {'dict_examp': 'This is our son Raja.',
+         'lear_examp': 'I love my son and my girlfriend.',
+         'level': 'A1',
+         'sense': 'your male child'},
+ 'still': {'dict_examp': "I'm still hungry.",
+           'lear_examp': 'So, I think my bag is still in my room.',
+           'level': 'A2',
+           'sense': 'used to say that something is continuing to happen now or '
+                    'that someone is continuing to do something now'},
+ 'stop': {'dict_examp': "Once I start eating chocolate, I can't stop.",
+          'lear_examp': 'Once you have started, you will not want to stop.',
+          'level': 'A1',
+          'sense': 'to not continue doing something that you were doing'},
+ 'store': {'dict_examp': 'a shoe/jewelry/hardware/electronics store',
+           'lear_examp': 'Yesterday I went to a store, and I bought some new '
+                         'clothes.',
+           'level': 'A1',
+           'sense': 'a building or part of a building where you can buy '
+                    'things'},
+ 'strong': {'dict_examp': 'strong arms/legs',
+            'lear_examp': 'I like this game because the story is very good end '
+                          'the protagonist is so strong!',
+            'level': 'A2',
+            'sense': 'A strong person or animal is physically powerful.'},
+ 'subway': {'dict_examp': 'We can take the subway to Grand Central Station.',
+            'lear_examp': 'The conference will take place at the Palace Hotel '
+                          'which can be reached by subway, taxi and bus.',
+            'level': 'A1',
+            'sense': 'a system of trains that travel underground'},
+ 'talk': {'dict_examp': "We were just talking about Simon's new girlfriend.",
+          'lear_examp': 'I like to talk with my friends and my teacher.',
+          'level': 'A1',
+          'sense': 'to say things to someone'},
+ 'tea': {'dict_examp': "I'd love a cup of tea, please.",
+         'lear_examp': 'She likes tea and coffee.',
+         'level': 'A1',
+         'sense': 'a hot drink that you make by pouring water onto dried '
+                  'leaves, or the leaves that you use to make this drink'},
+ 'that': {'dict_examp': 'Did you know that woman in the post office?',
+          'lear_examp': '',
+          'level': 'A1',
+          'sense': 'used to refer to something or someone that can be seen or '
+                   'pointed to'},
+ 'the': {'dict_examp': 'I bought a shirt and some shoes. The shirt was '
+                       "expensive, but the shoes weren't.",
+         'lear_examp': 'I like fresh food from my garden[.] I like a]ls to '
+                       'work in the garden.',
+         'level': 'A1',
+         'sense': 'used before nouns to refer to particular things or people '
+                  'that have already been talked about or are already known'},
+ 'them': {'dict_examp': "I've lost my keys. I can't find them anywhere.",
+          'lear_examp': 'S[ay] hello to your wife and children. I will have '
+                        'presents for them.',
+          'level': 'A1',
+          'sense': 'used after a verb or preposition to refer to a group of '
+                   'people, animals, or things that have already been talked '
+                   'about'},
+ 'they': {'dict_examp': "I've known the Browns for years. They're very nice "
+                        'people.',
+          'lear_examp': 'There are a lot of shops, restaurants and discos. '
+                        'They are open all day and all night.',
+          'level': 'A1',
+          'sense': 'used as the subject of the verb when referring to a group '
+                   'of people, animals, or things that have already been '
+                   'talked about'},
+ 'this': {'dict_examp': "Most people don't agree with this decision.",
+          'lear_examp': 'This factory makes fuel tanks for cars.',
+          'level': 'A1',
+          'sense': 'used to refer to something that you have already talked '
+                   'about'},
+ 'time': {'dict_examp': '"What\'s the time?" "It\'s ten o\'clock."',
+          'lear_examp': 'What time would you like to come?',
+          'level': 'A1',
+          'sense': 'a particular point in the day or night'},
+ 'to': {'dict_examp': 'She agreed to help.',
+        'lear_examp': 'She likes to go shopping with friends.',
+        'level': 'A1',
+        'sense': 'used with a verb to make an infinitive'},
+ 'together': {'dict_examp': 'We used to go to aerobics together.',
+              'lear_examp': 'I often meet my friend in there, we go to '
+                            'shopping, and go to the park, together.',
+              'level': 'A1',
+              'sense': 'with each other or doing something with each other'},
+ 'town': {'dict_examp': 'He was born in the small town of Elnora, Indiana.',
+          'lear_examp': 'He is from Lithuania and he lives in my town.',
+          'level': 'A1',
+          'sense': 'a place with houses, stores, and other buildings where '
+                   'people live and work that is smaller than a city'},
+ 'two': {'dict_examp': "They've got two houses.",
+         'lear_examp': 'I go to college two days per week.',
+         'level': 'A1',
+         'sense': 'the number 2'},
+ 'usually': {'dict_examp': "He usually gets home about 6 o'clock.",
+             'lear_examp': 'Hungarian people usually eat breakfast at 6 or 7 '
+                           "o'clock.",
+             'level': 'A2',
+             'sense': 'in the way that most often happens'},
+ 'very': {'dict_examp': 'Thank you very much.',
+          'lear_examp': 'My teacher is very nice.',
+          'level': 'A1',
+          'sense': 'used emphasize an adjective or adverb'},
+ 'way': {'dict_examp': 'There are many ways of solving the problem.',
+         'lear_examp': "I think it's the best way to relax.",
+         'level': 'A2',
+         'sense': 'how you do something'},
+ 'week': {'dict_examp': 'last/this/next week',
+          'lear_examp': 'She visits her parents once a week.',
+          'level': 'A1',
+          'sense': 'a period of seven days'},
+ 'west': {'dict_examp': 'The points of the compass are North, South, East and '
+                        'West.',
+          'lear_examp': '',
+          'level': 'A2',
+          'sense': 'the direction that you face to see the sun go down'},
+ 'what': {'dict_examp': 'What did you wear?',
+          'lear_examp': 'What do you think about that?',
+          'level': 'A1',
+          'sense': 'used to ask for information about something'},
+ 'which': {'dict_examp': 'Which jacket do you prefer?',
+           'lear_examp': 'Which car did he use, the McLaren or the Ferrari?',
+           'level': 'A1',
+           'sense': 'used to ask or talk about a choice between two or more '
+                    'things'},
+ 'who': {'dict_examp': 'Who told you?',
+         'lear_examp': 'What did you do at the party? Who was there?',
+         'level': 'A1',
+         'sense': "used to ask about someone's name or which person or group "
+                  'someone is talking about'},
+ 'wife': {'dict_examp': "I met Greg's wife for the first time.",
+          'lear_examp': 'How are you, and how are your wife and children?',
+          'level': 'A1',
+          'sense': 'the woman a man is married to'},
+ 'with': {'dict_examp': 'I was with Sylvia at the time.',
+          'lear_examp': 'On Sunday afternoon, she goes with her husband and '
+                        'her son to the swimming pool.',
+          'level': 'A1',
+          'sense': 'used to say that people or things are in a place together '
+                   'or are doing something together'},
+ 'woman': {'dict_examp': 'a 30-year-old woman',
+           'lear_examp': 'Your teacher will be a woman.',
+           'level': 'A1',
+           'sense': 'an adult female person'},
+ 'work': {'dict_examp': 'Do you have far to travel to work each day?',
+          'lear_examp': "I will finish work at five o'clock.",
+          'level': 'A1',
+          'sense': 'the place where you go to do your job'},
+ 'yet': {'dict_examp': "I haven't spoken to her yet.",
+         'lear_examp': "I haven't seen this film yet.",
+         'level': 'A2',
+         'sense': 'up until now'},
+ 'you': {'dict_examp': 'You look nice.',
+         'lear_examp': 'Thank you for your message.',
+         'level': 'A1',
+         'sense': 'used to refer to the person or people you are talking to'}}

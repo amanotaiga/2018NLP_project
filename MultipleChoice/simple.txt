@@ -1,0 +1,15 @@
+{'a': {'dict_examp': "She's got a boyfriend.",
+       'lear_examp': 'You can make a quick snack, for example a sandwich.',
+       'level': 'A1',
+       'sense': 'used before a noun to refer to a single thing or person but '
+                'not a particular thing or person or not one that you have '
+                'referred to before'},
+ 'after': {'dict_examp': 'Do you want to go for a walk after breakfast?',
+           'lear_examp': 'You can go shopping, eat a tasty meal and after that '
+                         'you can go to the disco and dance all night.',
+           'level': 'A1',
+           'sense': 'when a time or event has happened'},
+ 'ago': {'dict_examp': 'He left the house over an hour ago.',
+         'lear_examp': 'Two months ago I booked a trip to Malta.',
+         'level': 'A2',
+         'sense': 'used to refer to a time in the past'}}
